@@ -43,7 +43,7 @@ project-01-html-darkmode/
 
 # 🌐 Dark Mode Welcome Page
 
-> 🔗 **Live Demo:** [View Live Site]([text](https://nilmerosorio.github.io/My-AI-Engineering-Journey/project-01-html-darkmode/))
+> 🔗 **Live Demo:** [View Live Site](https://nilmerosorio.github.io/My-AI-Engineering-Journey/project-01-html-darkmode/)
 
 ## 💡 Key Learnings & Agent Insights
 
