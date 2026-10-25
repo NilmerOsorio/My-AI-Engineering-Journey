@@ -41,6 +41,10 @@ project-01-html-darkmode/
 * 📱 **Responsive Card Layout:** Clean hero section centered in a modern container with subtle background gradients.
 * ⚡ **Modular Code Structure:** HTML structure, CSS styling, and JavaScript logic are neatly decoupled across dedicated folders.
 
+# 🌐 Dark Mode Welcome Page
+
+> 🔗 **Live Demo:** [View Live Site]([text](https://nilmerosorio.github.io/My-AI-Engineering-Journey/project-01-html-darkmode/))
+
 ## 💡 Key Learnings & Agent Insights
 
 * **Clear Instructions Matter:** Giving the agent clear requirements (e.g., *"create a `styles` folder with `style.css`"*) yields instant, clean code architecture.
