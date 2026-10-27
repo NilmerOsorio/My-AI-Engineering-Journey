@@ -58,7 +58,7 @@ This project was built following a **Spec-Driven Development** methodology using
 
 ## 🌐 Live Demo
 
-🔗 **Live Site:** [View Demo](https://nilmerosorio.github.io/My-AI-Engineering-Journey/project-03-rock-paper-scissors/) *(Replace with your URL)*
+🔗 **Live Site:** [View Demo](https://nilmerosorio.github.io/My-AI-Engineering-Journey/project-03-rock-paper-scissors/)
 
 ---
 
